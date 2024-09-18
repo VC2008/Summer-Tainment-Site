@@ -1,17 +1,28 @@
-.homepage{
+body.homepage{
     text-align: center;
     background-color: rgb(0, 162, 255);
 }
 
-.Vacation{
+body.Vacation{
     text-align: center;
-    background-image: url(4-1_Slaves_to_Power.webp);
+    background-image: url('IMGS/4-1_Slaves_to_Power.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
 
+footer {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+
 h1{
     text-align: center;
 }
+p {
+    font-family: "rosella-inline", sans-serif;
+    font-style: normal;
+  }
